@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div stlye="display:none;">
+<div style="display:none;">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshjung84&count_bg=%23FF5A87&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
