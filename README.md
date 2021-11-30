@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-0769ad?style=for-the-badge&logo=iOS&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jQuery&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/iOS-0769ad?style=for-the-badge&logo=iOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
 </p>
