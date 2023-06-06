@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning iOS, Swift.
+- 🌱 I’m currently learning something new.
 
 
 <!--
@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/iOS-0769ad?style=for-the-badge&logo=iOS&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=Swift&amp;logoColor=white" />
 </p>
