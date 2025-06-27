@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jQuery&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/iOS-0769ad?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-0769ad?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-f05138?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=Swift&amp;logoColor=white" />
 </p>
