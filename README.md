@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/vue.js-0769ad?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-f05138?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Pug-02569B?style=for-the-badge&amp;logo=Pug&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=Swift&amp;logoColor=white" />
 </p>
+
+<!-- pug, assa, scss -->
