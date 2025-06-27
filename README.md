@@ -34,4 +34,8 @@ Here are some ideas to get you started:
 
 
 
-<!-- pug, assa, scss -->
+<!-- 
+https://simpleicons.org/
+https://shields.io/badges
+
+-->
